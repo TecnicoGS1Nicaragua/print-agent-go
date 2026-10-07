@@ -25,6 +25,9 @@ var defaultAllowOrigins = []string{
 	"https://nafcosa.vercel.app",
 	"https://www.nafcosa.vercel.app",
 	"http://nafcosa.vercel.app",
+	"https://nafcosa2.vercel.app",
+	"https://www.nafcosa2.vercel.app",
+	"http://nafcosa2.vercel.app",
 }
 
 func getAllowOrigins() []string {
